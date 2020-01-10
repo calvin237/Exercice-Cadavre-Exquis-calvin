@@ -1,1 +1,2 @@
-# Exercice-Cadavre-Exquis-calvin
+# Exercice-Cadavre-Exquis-calvin 
+le but de l'exerci est d'ecrire une histoire qui seras ensuite lu et completer par les memebre du groupe. Ensuite on dois faire la meme chose pour les histoires des histoires de nos memebres de groupe.
